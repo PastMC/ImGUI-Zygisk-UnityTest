@@ -20,7 +20,7 @@ add_library( ${MODULE_NAME} SHARED
              ImGui/imgui_widgets.cpp
              ImGui/imgui_demo.cpp
              ImGui/imgui_draw.cpp
-             ByNameModding/bnm.cpp
+             
         http/cpr/async.cpp
         http/cpr/auth.cpp
         http/cpr/bearer.cpp
